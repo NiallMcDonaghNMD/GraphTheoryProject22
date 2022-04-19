@@ -1,6 +1,6 @@
 # Graph theory project
 
-Foobar is a Python library for dealing with word pluralization.
+Welcome to my graph theory project for 2022 for 3rd year Software Development at ATU (GMIT).
 
 ## Opening notebooks
 
