@@ -2,7 +2,14 @@
 
 Welcome to my graph theory project for 2022 for 3rd year Software Development at ATU (GMIT).
 
-## Prerequisites
+This repository/github project exists for a module I have to complete for GMIT/ATU. The module is called "Graph Theory" and is all about the subject matter of its name.
+As part of my assessment, I was required to create two jupyter notebooks based upon Graph Theory. One being the Heap Sort Algorithm and the other being the Graph Isomorphism Problem.
+Both have been interesting and intriguing to investigate, research and learn how and why they exist.
+
+## Projects contents
+The project contains a few files. Primarily the two .ipynb jupyter notebook files which hold the main projects work, amongst an images folder which has images that are linked to the notebooks. A videos folder containing a video in relation to Heap Sort, and this README.MD file you are currently reading.
+
+## Project Prerequisites
 
 In order to open up the notebooks, you require Python and Jupyter notebooks AND git.
 
@@ -53,9 +60,9 @@ Upon loading the notebook, jupyter should automatically run all the content. How
 Congratulations, you have successfully ran my jupyter notebook python project :)
 
 
-# ## Contributing
-# Pull requests are welcome. No editing/reuploading of this project is permitted with the exception of academic purposes (ATU grading etc.)
+##  Contributing
+## Pull requests are welcome. No editing/reuploading of this project is permitted with the exception of academic purposes (ATU grading etc.)
 
-# Author: Niall McDonagh
-# ## License
-# [MIT](https://choosealicense.com/licenses/mit/)
+## Author: Niall McDonagh
+##  License
+## [MIT](https://choosealicense.com/licenses/mit/)
